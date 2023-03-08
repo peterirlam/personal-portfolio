@@ -11,7 +11,7 @@ Want to collaborate or need freelance work - just fill out the form, email me or
 
 ## 🔗 &nbsp; Demo
 
-Live view by clicking the badge (use Ctrl/Cmd + Shift to open a new window): [![Netlify Status](https://api.netlify.com/api/v1/badges/ef9d5396-a742-445e-964a-9200d87c17cb/deploy-status)](https://app.netlify.com/sites/peter-irlam-portfolio/deploys)
+Live view by clicking the badge (use Ctrl/Cmd + Shift to open a new window): [![Netlify Status](https://api.netlify.com/api/v1/badges/f9a7f8d3-58ca-44ed-a038-ae8d2efd31a5/deploy-status)](https://peter-irlam-portfolio.netlify.app/)
 
 You can also clone the project and open it in localhost (See Prerequisites below):
 
