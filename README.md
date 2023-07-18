@@ -7,7 +7,7 @@ GitHub. I've also included all my contact details.
 
 Why not get in touch? I'd love to hear from you. 
 
-Want to collaborate or need freelance work - just fill out the form, email me or use whatever method you're comfortable with 😄.
+Want to collaborate - just fill out the form, email me or use whatever method you're comfortable with 😄.
 
 ## 🔗 &nbsp; Demo
 
@@ -20,15 +20,6 @@ You can also clone the project and open it in localhost (See Prerequisites below
 - [x] HTML
 - [x] CSS
 - [x] JavaScript
-
-## 🏗️ &nbsp; Why I Chose This Project
-
-I want to provide evidence of my skills and abilities in new technologies that I've learned in my own time. 
-
-I focus on the most common requirements posted on job vacancies as well as the workflow used by digital agencies such as a good knowledge of
-Git, GitHub and agile methodologies. 
-
-There is still a lot more I wish to achieve such as learning module bundlers like WebPack and back end technologies.
 
 ## Potential Future Features
 
