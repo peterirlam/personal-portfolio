@@ -1,6 +1,6 @@
 # 💻 &nbsp; Peter Irlam | IT Support Engineer 
 
-Thanks for checking out my side projects. You can view live examples of my work as well as inspecting the source code on
+Thanks for checking out my side projects. Why is an IT Support Engineer dabbling in web development? Because not only do I love all things IT, but I also believe that having an understanding of the internet and how websites work, creates better IT Engineers and Technicians! You can view live examples of my work as well as inspecting the source code on
 GitHub. I've also included all my contact details. 
 
 Why not get in touch? I'd love to hear from you. 
