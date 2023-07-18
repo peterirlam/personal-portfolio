@@ -1,8 +1,6 @@
-# 💻 &nbsp; Peter Irlam | Frontend Web Developer
+# 💻 &nbsp; Peter Irlam | IT Support Engineer 
 
-# 📖 &nbsp; Personal Portfolio Website
-
-Thanks for checking out my projects site. You can view live examples of my work as well as inspecting the source code on
+Thanks for checking out my side projects. You can view live examples of my work as well as inspecting the source code on
 GitHub. I've also included all my contact details. 
 
 Why not get in touch? I'd love to hear from you. 
